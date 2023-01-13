@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @vittorioexp
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Web Accessibility, Apache Airflow, and Spring Boot with the DGS Framework
-- 📫 How to reach me? [Add me on LinkedIn](https://www.linkedin.com/in/vittorioexp/?locale=en_US)
-
-<!---
-vittorioexp/vittorioexp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🤗 Welcome to my GitHub profile!
+- 💻 My name is @vittorioexp and I am passionate about software. 
+- 🌱 I am constantly seeking to expand my knowledge and currently learning about web accessibility, Apache Airflow, and Spring Boot. 
+- 📚 I believe in sharing my knowledge and experiences with others, which is why I publish project samples on my GitHub profile. 
+- 🛠️ Additionally, I also create libraries to simplify the development process, such as my SIM800L Arduino library. 
+- 🙌 If you would like to connect with me, please feel free to [reach out on LinkedIn](https://www.linkedin.com/in/vittorioexp/?locale=en_US). Thank you for visiting my profile!

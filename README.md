@@ -1,4 +1,3 @@
 - Welcome to my GitHub profile!
 - My name is Vittorio and I am a web developer. 
 - I am constantly seeking to expand my knowledge, and currently focusing on `Next.js`.
-- Feel free to [reach out on LinkedIn](https://www.linkedin.com/in/vittorioexp/?locale=en_US).

@@ -1,3 +1,2 @@
 - Welcome to my GitHub profile!
-- My name is Vittorio and I am a web developer. 
-- I am constantly seeking to expand my knowledge, and currently focusing on `Next.js`.
+- My name is Vittorio and I am a full-stack developer. 
